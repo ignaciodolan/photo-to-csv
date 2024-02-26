@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@aws-sdk/client-textract": "^3.496.0",
+    "aws-sdk": "^2.1541.0",
+    "csv-writer": "^1.6.0"
+  }
+}
